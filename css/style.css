@@ -1,0 +1,28 @@
+div{
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+}
+.img1{
+  vertical-align: middle;
+  display: inline-block;
+  background-image: url("../img/background1.png");
+  background-repeat: repeat;
+}
+.img2{
+  vertical-align: middle;
+  display: inline-block;
+  background-image: url("../img/background2.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.img3{
+  vertical-align: middle;
+  display: inline-block;
+  background-image: url("../img/background3.png");
+  background-position: right bottom;;
+  background-repeat: no-repeat;
+  
+
+}
